@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ProthaGOAT
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning CyberSecurity
 - 💞️ I’m looking to collaborate on Web and Game projects 
 - 📫 How to reach me +233209010931 or abrahamogbole5@gmail.com
 - 😄 Pronouns: HIM
